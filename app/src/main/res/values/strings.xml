@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Manipula</string>
+    <string name="tituloNome">Nome</string>
+    <string name="tituloSenha">Senha</string>
+</resources>
